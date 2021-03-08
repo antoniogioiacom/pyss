@@ -36,8 +36,8 @@ screen_default_height = 1080
 
 # custom javascript
 
-js_on_load   = "document.getElementById('cookie-notice').setAttribute('style', 'display: none;');"
-js_on_scroll = "document.getElementById('masthead').setAttribute('style', 'display: none;');"
+js_on_load   = "" # example: "document.getElementById('cookie-notice').setAttribute('style', 'display: none;');"
+js_on_scroll = ""
 
 # functions
 
